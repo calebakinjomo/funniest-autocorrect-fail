@@ -8,6 +8,7 @@ The line: a loving text to Grandma where autocorrect turns "best" into
 "breast". The slip is instantly clear (nobody texts Grandma that on
 purpose), the wrong word is shocking in context, and it reads exactly
 like a real sent message — no explanation needed.
+Reviser note: the entry is one fixed line by design — no randomness, no input, and no network — so the program writes exactly the same line on every run.
 """
 
 import os
